@@ -7,6 +7,7 @@ Karina Keus 3/10/2020
 Instructions for Automatic GAMMA Scorer
 
 A COMPLETE COPY OF THE INSTRUCTIONS (INCLUDING FOR RUNNING POWER ANALYSIS IS ON THE GOOGLE DRIVE FOLDER. THE FOLLOWING ONLY APPLIES TO THE EXAMPLE FILES THAT HAVE ALREADY UNDERGONE POWER ANALYSIS.
+- Use MasterScript2 on Baseline1 sample (already loaded in MasterScript2), and MasterScript for SEFL3 and 6FE.
 
 Run through MasterScript2
 - Add your scripts and functions to the path
