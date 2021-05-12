@@ -1,7 +1,7 @@
 %% EMG MATRIX CONFIG
 % Written by Karina Keus
 
-function [MEMG,EMGave] = EMG_matrix_config(Excel_EMG);
+function [MEMG,EMGave] = EMG_matrix_config_git(Excel_EMG);
 
 % This function takes a .csv file of EMG power values and outputs multiple
 % matrices and vectors that are necessary for other scripts to run.
