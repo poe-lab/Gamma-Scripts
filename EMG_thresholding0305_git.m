@@ -2,7 +2,7 @@
 % Most updated version
 % Written by Karina Keus
 
-function [thresholdEMG,threshold_outputEMG] = EMG_thresholding0305(EMGave);
+function [thresholdEMG,threshold_outputEMG] = EMG_thresholding0305_git(EMGave);
 %%
 % This funciton takes a vector as an input (EMGave), which contains the
 % average power value for EMG frequencies between 30 and 125 Hz. This
