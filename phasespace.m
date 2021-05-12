@@ -1,4 +1,4 @@
-figure; scatter(Mgamma_average,TD_ratio)
+figure; scatter_git(Mgamma_average,TD_ratio)
 
 phasestates = Mstates;
 phasestates(phasestates == 1) = 1;
