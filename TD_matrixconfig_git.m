@@ -1,4 +1,4 @@
-function [TD_ratio,Mstates_TD,Mtheta,Mdelta] = TD_matrixconfig(Excel_Theta)
+function [TD_ratio,Mstates_TD,Mtheta,Mdelta] = TD_matrixconfig_git(Excel_Theta)
 
 % Step 1. Separate Power Spectra file from other Excel files, save as a .csv to
 % relevant folder and add to path.
