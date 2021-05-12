@@ -3,7 +3,7 @@
 % Most updated version
 % Written by Kevin Wright and Karina Keus
 
-function [MGfit,threshold,threshold_output] = gamma_thresholding0302(Mgamma_average);
+function [MGfit,threshold,threshold_output] = gamma_thresholding0302_git(Mgamma_average);
 %%
 % This function takes a vector as an input, which contains the average
 % power between 50 and 70 Hz for each 10s time epoch in a vertical column.
