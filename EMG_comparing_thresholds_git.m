@@ -1,4 +1,4 @@
-function [idealthreshEMG,idealKEMG] = EMG_comparing_thresholds(thresholdEMG,threshold_outputEMG,EMGave,manual_output)
+function [idealthreshEMG,idealKEMG] = EMG_comparing_thresholds_git(thresholdEMG,threshold_outputEMG,EMGave,manual_output)
 
 decreased = thresholdEMG-.001;
 threshold_trialsTD = thresholdEMG-decreased;
