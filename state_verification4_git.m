@@ -1,6 +1,6 @@
 
 
-function [verification_ratio4] = state_verification4(Mstates,TOfinal)
+function [verification_ratio4] = state_verification4_git(Mstates,TOfinal)
 
 Mstates_convert = zeros(size(Mstates,1),1);
 for i = [1:size(Mstates,1)]
