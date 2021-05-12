@@ -1,4 +1,4 @@
-function [Epochs, Mgamma,Mstates,Mgamma_average,manual_output] = matrixconfig(Excel_Gamma)
+function [Epochs, Mgamma,Mstates,Mgamma_average,manual_output] = matrixconfig_git(Excel_Gamma)
 
 % Step 1. Separate Power Spectra file from other Excel files. Remove all lettered text (delete first row, replace other cells with zeroes). Save as a .csv to
 % relevant folder and add to path. 
