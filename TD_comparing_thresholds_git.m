@@ -1,4 +1,4 @@
-function [idealthreshTD,idealKTD] = TD_comparing_thresholds(index9,thresholdTD,threshold_outputTD,TD_ratiocopy,manual_output_TD)
+function [idealthreshTD,idealKTD] = TD_comparing_thresholds_git(index9,thresholdTD,threshold_outputTD,TD_ratiocopy,manual_output_TD)
 
 decreased = thresholdTD-.001;
 threshold_trialsTD = thresholdTD-decreased;
