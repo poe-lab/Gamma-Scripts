@@ -1,6 +1,6 @@
 %% GAMMA THRESHOLDING
 
-function [threshold_outputTD,thresholdTD] = TD_thresholding0228(TD_ratiocopy);
+function [threshold_outputTD,thresholdTD] = TD_thresholding0228_git(TD_ratiocopy);
 
 % This function takes a vector as an input, which contains the average
 % power between 50 and 70 Hz for each 10s time epoch in a vertical column.
