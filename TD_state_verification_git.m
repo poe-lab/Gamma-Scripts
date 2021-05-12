@@ -4,7 +4,7 @@
 % agree on wake/sleep state. 
 
 
-function [verification_ratioTD, KTD] = TD_state_verification(index9,manual_output_TD,threshold_outputTD);
+function [verification_ratioTD, KTD] = TD_state_verification_git(index9,manual_output_TD,threshold_outputTD);
 
 % This function checks the output of the theta-delta thresholding method
 % with manual scoring.
